@@ -1,7 +1,7 @@
 # Java Programming III Course Projects
 This repository showcases projects completed througout the duration of the CS300 Java Programming III course at the University of Wisconsin-Madison in Spring 2024. These software projects were designed and utilized object-oriented and functional programming to write both backend and frontend code, implementing balanced search trees, graphs, hash tables, and complexity analysis, incorporating industry-standard development practices, version control, and advanced user-interface design.
 
-Please see the repositories below for each completed project iteration. Each project implements an isolated aspect of the overarching project, a full-stack interactive song database and filtering system.
+Included below are the private repositories containing the implemented code for each project iteration. Please reach out to me at sierrareschke@gmail.com for an access token. Each sub-project implements an isolated aspect of the overarching project, a full-stack interactive song database and filtering system.
 
 ## Full-Stack Interactive Song Database
 [iSongify](https://github.com/sierrareschke/cs400_transfer/tree/main/A1.SGRESCHKE.CUDZINOVIC2):
