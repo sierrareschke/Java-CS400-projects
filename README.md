@@ -19,6 +19,6 @@ Co-developed a full-stack app that filters songs by implementing interfaces, cla
 - [Project 12](https://github.com/sierrareschke/cs400_transfer/tree/main/P212.Hashtable): Hashtable Implementation
 
 ##
-[Link to all projects and assignments completed](https://github.com/sierrareschke/cs400_transfer)
+[Link to all projects and assignments completed](https://github.com/sierrareschke/cs400_sierra_reschke)
 
 
