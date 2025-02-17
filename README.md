@@ -16,7 +16,7 @@ Co-developed a full-stack app that filters songs by implementing interfaces, cla
 - [Project 7-9](https://github.com/sierrareschke/cs400_transfer/tree/main/P209.InterfaceDesign): Updated Implementation of Frontend, Backend, and Interface Design
 - [Project 10](https://github.com/sierrareschke/cs400_transfer/tree/main/P210.ShortestPath): Shortest Path Implementation (Dijkstra's Algorithm, Map/Graph ADT)
 - [Project 11](https://github.com/sierrareschke/cs400_transfer/tree/main/P211.RoleCode): Updated Backend Implementation with Frontend Placeholder
-- [Project 12](https://github.com/sierrareschke/cs400_transfer/tree/main/P212.RoleCode): Hashtable Implementation
+- [Project 12](https://github.com/sierrareschke/cs400_transfer/tree/main/P212.Hashtable): Hashtable Implementation
 
 ##
 [Link to all projects and assignments completed](https://github.com/sierrareschke/cs400_transfer)
