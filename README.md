@@ -6,7 +6,6 @@ Please see the repositories below for each completed project.
 ## Projects
 - [Project 1](https://github.com/sierrareschke/cs400_transfer/tree/main/P101.BSTRotation): BST Rotation
 
-## All projects and assignments
 - [Link to all projects and assignments completed](https://github.com/sierrareschke/cs400_transfer)
 
 
