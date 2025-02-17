@@ -4,7 +4,7 @@ This repository showcases projects completed througout the duration of the CS300
 Please see the repositories below for each completed project iteration. Each project implements an isolated aspect of the overarching project, a full-stack interactive song database and filtering system.
 
 ## Full-Stack Interactive Song Database
-[iSongify](https://github.com/sierrareschke/cs400_transfer/tree/main/A1.SGRESCHKE.CUDZINOVIC2/App.java)
+[iSongify](https://github.com/sierrareschke/cs400_transfer/tree/main/A1.SGRESCHKE.CUDZINOVIC2/App.java):
 Co-developed a full-stack app that filters songs by implementing interfaces, classes, data structures (binary search and red-black trees), recursive algorithms, Comparables, command-line interface, JUnit testing, anonymous classes, and OOP principles.
 
 ## Project Iterations
